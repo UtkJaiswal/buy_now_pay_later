@@ -3,7 +3,7 @@
 
 ### Project setup
 
-1. Create a virtual env
+1. Create  virtual env
     ```bash
     python3 -m venv venv
     ```
